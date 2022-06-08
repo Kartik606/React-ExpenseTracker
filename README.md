@@ -1,5 +1,4 @@
-#React-ExpenseTracker
+React-ExpenseTracker
 
 
 
-React Project
